@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair Farooq</h1>
+<h1 align="center">Hi, I'm Muhammad Umair Farooq</h1>
 I am a Machine Learning Engineer thriving to make a change.
 
 
