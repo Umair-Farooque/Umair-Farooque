@@ -97,17 +97,6 @@ Applies edge detection, region masking, and Hough transforms for road scene unde
 <br>
 
 <!-- ========================= -->
-<!--    CONTRIBUTION SNAKE    -->
-<!-- ========================= -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<p align="center">
-	<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<br>
-
-<!-- ========================= -->
 <!--        CONNECT ME        -->
 <!-- ========================= -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
