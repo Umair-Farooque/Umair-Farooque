@@ -1,18 +1,130 @@
-<h1 align="center">Hi, I'm Muhammad Umair Farooq</h1>
-I am a Machine Learning Engineer thriving to make a change.
+<h1 align="center">Hi, I am Muhammad Umair Farooq</h1>
+<p align="center"><b>AI & ML Engineer. Thriving to make a change</b></p>
+
+<!-- ========================= -->
+<!--       PORTFOLIO BTN      -->
+<!-- ========================= -->
+<p align="center">
+  <a href="https://portfolio-umair-farooq-iota.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=08F7FE" />
+  </a>
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--         ABOUT ME         -->
+<!-- ========================= -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3>🧠 About Me</h3>
+
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1naDU5bW5ndWRjZ2NpMmk5MGFrMHpob2wyMTN4aWFjYXF0aW9pNSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/A06UFEx8jxEwU/giphy.gif"/>
+
+- AI/ML Engineer focused on **LLM Application Development, Agentic LLMs, Computer Vision and production-grade MLOps**
+- Experienced with **model serving, CI/CD, containerized deployments, and edge acceleration**
+- Comfortable building **full AI pipelines**: research → training → deployment  
+- Working extensively with **LangChain, LangGraph, RAG, and Agentic workflows**
+
+<br><br>
+
+<!-- ========================= -->
+<!--     PROJECT HIGHLIGHTS   -->
+<!-- ========================= -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3>🚀 Highlight Projects</h3>
+
+- 😀 **Legal Reasoning Agent**  
+  An AI-powered legal assistant using hybrid retrieval (BM25 + FAISS) and LLM reasoning to generate structured, citation-aware legal answers.
+
+- 🤖 **Mednix – AI Drug Information Assistant**  
+  A Retrieval-Augmented Generation system designed to answer medical and drug-related queries using domain-specific documents.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umairfaroq) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@umairkiller333) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22399193) 
+- 🩺 **Neuro-Flex: EMG-Based Hand Movement Prediction**  
+  CNN classifier optimized for deployment on low-resource hardware.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Umair-Farooque&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Umair-Farooque&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Farooque&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🫁 **Finding Lane Lines on the Road**  
+  A classical computer vision project for detecting lane lines using image processing techniques.
+Applies edge detection, region masking, and Hough transforms for road scene understanding.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Umair-Farooque&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🤖 **Real-Time Human Blurring**  
+  A computer vision application that detects and blurs humans in real-time video streams for privacy preservation.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<!-- ========================= -->
+<!--       CURRENT WORK       -->
+<!-- ========================= -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3>🌱 Currently Working On</h3>
+
+- Agentic AI workflows (tool use, memory, multi-step reasoning)  
+- Industrial-grade **RAG + SQL** hybrid systems  
+- Scalable deployments using **Docker, FastAPI, GPUs/TPUs**  
+- Robotics path-planning + RL  
+- Local LLM serving (vLLM, Ollama)
+
+<br>
+
+<!-- ========================= -->
+<!--       TECH STACK         -->
+<!-- ========================= -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3>🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,mysql" />
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--      GITHUB STATS        -->
+<!-- ========================= -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Umair-Farooque&theme=dark&layout=compact" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umair-Farooque&show_icons=true&theme=dark&hide=issues" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Umair-Farooque&theme=dark" height="150"/>
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--    CONTRIBUTION SNAKE    -->
+<!-- ========================= -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--        CONNECT ME        -->
+<!-- ========================= -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="center">📫 Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/umairfaroq/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:farooq.intellecta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Umair-Farooque">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
