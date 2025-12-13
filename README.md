@@ -90,10 +90,6 @@ Applies edge detection, region masking, and Hough transforms for road scene unde
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umair-Farooque&show_icons=true&theme=dark&hide=issues" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Umair-Farooque&theme=dark" height="150"/>
-</p>
-
 <br>
 
 <!-- ========================= -->
