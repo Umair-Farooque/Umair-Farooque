@@ -77,20 +77,6 @@ Applies edge detection, region masking, and Hough transforms for road scene unde
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,mysql" />
 </p>
 
-<br>
-
-<!-- ========================= -->
-<!--      GITHUB STATS        -->
-<!-- ========================= -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Umair-Farooque&theme=dark&layout=compact" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umair-Farooque&show_icons=true&theme=dark&hide=issues" height="150"/>
-</p>
-
-<br>
 
 <!-- ========================= -->
 <!--        CONNECT ME        -->
